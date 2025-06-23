@@ -75,4 +75,13 @@ The dataset is **synthetically generated** using SQL logic for demonstration and
 
 ---
 
+## 👤 Author
+
+**R. Nithin Narashima**  
+Fresher | Pursuing Data Analytics  
+Skilled in Python, Excel, SQL, Tableau, Power BI  
+Tamil Nadu, India
+
+---
+
 
